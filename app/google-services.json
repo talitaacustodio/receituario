@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784364956755",
+    "project_id": "aplicativo-receituario",
+    "storage_bucket": "aplicativo-receituario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784364956755:android:0cdc36f57dd3734215eaa6",
+        "android_client_info": {
+          "package_name": "com.projectt.aplicativoreceituario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784364956755-q1bhg8putk3bf3ntd8c79fajhvfi0648.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectt.aplicativoreceituario",
+            "certificate_hash": "37a7f314f5c131c416aa4b6c22e06595da016561"
+          }
+        },
+        {
+          "client_id": "784364956755-38622r8v651utf8r5hc31sv39rnasd19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vNwM_eQJU8ZbHhAc3l_TlI5GaXt6zBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784364956755-38622r8v651utf8r5hc31sv39rnasd19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

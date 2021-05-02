@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#01C7D2</item>
+        <item name="colorPrimaryDark">#00B2BC</item>
+        <item name="colorAccent">#FF706A</item>
+    </style>
+
+    <!-- Tema aplicado em Clientes -->
+    <style name="ClienteTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimaryCliente</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkCliente</item>
+        <item name="colorAccent">@color/colorAccentCliente</item>
+    </style>
+
+    <!-- Tema aplicado em Relatorios. -->
+    <style name="RelatorioTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimaryRelatorios</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkRelatorios</item>
+        <item name="colorAccent">@color/colorAccentRelatorios</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

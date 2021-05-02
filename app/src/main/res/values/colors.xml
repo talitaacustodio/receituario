@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Cores Cliente  -->
+    <color name="colorPrimaryCliente">#023E8A</color>
+    <color name="colorPrimaryDarkCliente">#0077B6</color>
+    <color name="colorAccentCliente">#0096C7</color>
+
+    <!-- Cores Relatorios -->
+    <color name="colorPrimaryRelatorios">#1B4332</color>
+    <color name="colorPrimaryDarkRelatorios">#2D6A4F</color>
+    <color name="colorAccentRelatorios">#52B788</color>
+</resources>
