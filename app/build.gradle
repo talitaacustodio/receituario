@@ -37,5 +37,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.heinrichreimersoftware:material-intro:master-SNAPSHOT'
     implementation 'com.github.clans:fab:1.6.4'
+    implementation platform('com.google.firebase:firebase-bom:26.3.0')
+    implementation 'com.google.firebase:firebase-database-ktx'
 
 }

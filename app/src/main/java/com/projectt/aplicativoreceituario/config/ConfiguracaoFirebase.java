@@ -12,9 +12,9 @@ public class ConfiguracaoFirebase {
     private static DatabaseReference firebase;
 
     //retorna a instancia do firebaseDatabase
-    public static DatabaseReference getFirebaseDatabase(){
+    public static DatabaseReference getFirebaseDatabase(String reference){
         if(firebase == null){
-            firebase = FirebaseDatabase.getInstance().getReference();
+            firebase = FirebaseDatabase.getInstance().getReference(reference);
         }
         return firebase;
     }
