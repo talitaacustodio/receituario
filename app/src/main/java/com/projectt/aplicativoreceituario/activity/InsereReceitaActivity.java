@@ -1,8 +1,10 @@
-package com.projectt.aplicativoreceituario;
+package com.projectt.aplicativoreceituario.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.projectt.aplicativoreceituario.R;
 
 public class InsereReceitaActivity extends AppCompatActivity {
 
